@@ -101,10 +101,10 @@ The embedding-based approach using `intfloat/multilingual-e5-large-instruct` dem
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [hassanmahmoudsd@example.com](mailto:hassanmahmoudsd@example.com).
+For any questions or suggestions, please open an issue or contact [hassanmahmoudsd@gmail.com](mailto:hassanmahmoudsd@gmail.com).
